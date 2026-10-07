@@ -4,3 +4,15 @@
     height: 140px;
     border-radius: 90px;
 }
+
+button
+{
+    background-color: #f44336;
+    color: white;
+    text-align: center;
+}
+
+button:hover
+{
+    background-color: red;
+}
